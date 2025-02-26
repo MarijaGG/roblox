@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(87, 71, 71);
+    color: wheat;
+}
+
+.navbar{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(58, 48, 48);
+    margin: -8px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.first{
+    margin-right: 15px;
+}
+
+a {
+    color: rgb(159, 153, 153); /* Change to any color */
+    text-decoration: none; /* Removes the underline */
+  }
